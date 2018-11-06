@@ -1,0 +1,36 @@
+<resources>
+    <string name="delete_from_cart_title">Delete item</string>
+    <string name="delete_from_cart_message">Do you want to delete %s from cart?</string>
+    <string name="delete_from_cart_positive_button">Yes</string>
+    <string name="delete_from_cart_negative_button">No</string>
+
+    <string name="fill_all_fields">All fields must be filled</string>
+    
+    <string name="app_name">Delivery</string>
+    <string name="title_home">Featured</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_cart">Cart</string>
+
+    <string name="sign_out">Sign out</string>
+    <string name="profile_order_history">Order history</string>
+
+    <string name="add_to_cart">Add to cart</string>
+    <string name="total_sum">Total sum:</string>
+
+    <string name="cart_empty">Your cart is empty</string>
+
+    <string name="order">Order</string>
+    <string name="order_time">Order time</string>
+    <string name="order_details">Order details</string>
+    <string name="order_city">City</string>
+    <string name="order_street">Street</string>
+    <string name="order_house">House</string>
+    <string name="order_flat">Flat</string>
+    <string name="order_phone">Phone number</string>
+    <string name="order_delivery_time">Time</string>
+    <string name="order_comment">Comment to order</string>
+    <string name="order_place">Place order</string>
+
+
+</resources>

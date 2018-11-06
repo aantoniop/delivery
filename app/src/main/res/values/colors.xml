@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00838f</color>
+    <color name="colorPrimaryDark">#006064</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="navigationBorder">#e0e0e0</color>
+    <color name="foodCardBorder">#bdbdbd</color>
+    <color name="foodCardBackground">#eeeeee</color>
+</resources>
